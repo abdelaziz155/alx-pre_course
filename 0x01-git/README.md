@@ -1,2 +1,2 @@
-my second redame
-update and commit from GitHub interface
+My first readme 
+README update from github.com
